@@ -1,2 +1,27 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
+
+## Overview of Project
+Data and analysis that provides an overview of campaigns with success and fail ratios with dollar amounts
+
+### Purpose
+Use the data to see what trends bring more positive outcomes to campaigns
+
+## Analysis and Challenges
+To specify seperate industries, we analyzed outcomes based on launch date for theater and outcome based on goals for plays
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
