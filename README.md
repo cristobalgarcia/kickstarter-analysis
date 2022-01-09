@@ -11,6 +11,7 @@ Use the data to see what trends bring more positive outcomes to campaigns
 To specify seperate industries, we analyzed outcomes based on launch date for theater and outcome based on goals for plays
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/28042169/148670403-4f955ba4-b7c5-4834-9167-b672e486974e.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/28042169/148670363-26b891fd-1c2d-484f-a879-61eb8d69d6ac.png)
