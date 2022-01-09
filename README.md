@@ -13,6 +13,7 @@ To specify seperate industries, we analyzed outcomes based on launch date for th
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/28042169/148670363-26b891fd-1c2d-484f-a879-61eb8d69d6ac.png)
 
 ### Challenges and Difficulties Encountered
 
